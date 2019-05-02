@@ -1,11 +1,11 @@
 # [Symfony Live - Tunis 2019](https://tunis2019.live.symfony.com) talks
 
 - All talks are in **french**.
-- Comment and rate talks on [joind.in]()
+- :confused: No joind.in link available to comment and rate talks
 
 ## Keynote
 
-[Slides](https://speakerdeck.com/fabpot/symfony-4-in-action-updated-for-4-dot-3)
+[Slides](https://speakerdeck.com/fabpot/symfony-4-in-action-updated-for-4-dot-3)  
 ~~Video~~
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
@@ -19,14 +19,14 @@ By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)
 <dl>
   <dt>Description</dt>
   <dd>
-	 La présentation comportera les sujets suivants:
-		Rappel REST
-		Brève introduction à GraphQL
-		Implémentations REST avec Symfony 4
-		Implémentation GraphQL avec Symfony 4
-		Benchmarking REST vs GraphQL
-		Comment choisir entre REST et GraphQL
-		introduction à gRPC/Protocol buffers/HTTP2
+	  La présentation comportera les sujets suivants:
+		rappel REST,
+		brève introduction à GraphQL, 
+		implémentations REST avec Symfony 4, 
+		implémentation GraphQL avec Symfony 4, 
+		benchmarking REST vs GraphQL, 
+		comment choisir entre REST et GraphQL, 
+		introduction à gRPC/Protocol buffers/HTTP2.
 	</dd>
 </dl>
 
@@ -42,16 +42,15 @@ By [Barhoumi Ramzi](https://connect.symfony.com/profile/barhoumi_ramzi)
 <dl>
   <dt>Description</dt>
   <dd>
-    Panther est un tout nouveau composant Symfony dont l'objectif est de vous simplifier l'écriture des tests d'intégrations et des tests end-to-end !
-    Dans ce talk vous découvrirez I) qu'est-ce que la pyramide des tests et en quoi Panther est l'outil idéal pour homogénéiser sa suite de tests; II) en quoi consiste la pratique du TDD et comment doit-elle être adapté pour correspondre aux problématiques d'une application web; III) à quoi ressemblent ces pratiques sur un projet réel et quelles charges leur mise en place peut-elle coûter; IV) quelles pistes peuvent être explorées pour améliorer nos suites de tests et bénéficier de toujours plus d'assurance qualité.
+    Panther est un tout nouveau composant Symfony dont l'objectif est de vous simplifier l'écriture des tests d'intégrations et des tests end-to-end ! Dans ce talk vous découvrirez I) qu'est-ce que la pyramide des tests et en quoi Panther est l'outil idéal pour homogénéiser sa suite de tests; II) en quoi consiste la pratique du TDD et comment doit-elle être adapté pour correspondre aux problématiques d'une application web; III) à quoi ressemblent ces pratiques sur un projet réel et quelles charges leur mise en place peut-elle coûter; IV) quelles pistes peuvent être explorées pour améliorer nos suites de tests et bénéficier de toujours plus d'assurance qualité.
   </dd>
 </dl>
 
-[Slides](https://adrienlucas.github.io/talk-tdd-with-panther/#/le-tdd-dans-la-vraie-vie-avec-panther)
+[Slides](https://adrienlucas.github.io/talk-tdd-with-panther/)  
 ~~Video~~
 
-By [Adrien Lucas](https://connect.symfony.com/profile/adrienlucas)
-![github](icon/github.png) [@AdrienLucas](https://github.com/AdrienLucas)  
+By [Adrien Lucas](https://connect.symfony.com/profile/adrienlucas)  
+![github](icon/github.png) [@adrienlucas](https://github.com/adrienlucas)  
 ![twitter](icon/twitter.png) [@adrienlucas](https://twitter.com/adrienlucas)
 
 ---
@@ -66,11 +65,11 @@ By [Adrien Lucas](https://connect.symfony.com/profile/adrienlucas)
 ~~Slides~~  
 ~~Video~~
 
-By [ameni kooli](https://connect.symfony.com/profile/symdrik)
+By [Ameni Kooli](https://connect.symfony.com/profile/symdrik)
 
 ---
 
-## [CAS REEL] Réalisation d'un POC et son Industrialisation avec Symfony
+## [Cas Réel] Réalisation d'un POC et son Industrialisation avec Symfony
 
 <dl>
   <dt>Description</dt>
@@ -78,7 +77,7 @@ By [ameni kooli](https://connect.symfony.com/profile/symdrik)
 
 Pour la réalisation de cet objectif, un POC a été développé sur PHP/Symfony.
 
-Réalisation du POC: Application d'une approche itérative avec des itérations courtes de 2 semaines (Trajectoire d'exploration, afin de faire la preuve du concept et de sa valeur pour l'entreprise) - Adéquation du Framework Symfony au itérations courtes
+Réalisation du POC: Application d'une approche itérative avec des itérations courtes de 2 semaines (Trajectoire d'exploration, afin de faire la preuve du concept et de sa valeur pour l'entreprise) - Adéquation du Framework Symfony au itérations courtes.
 Description technique de l'ETL de traitement de la maquette numérique: Bus de messages RabbitMQ, Gisement de données MongoDB, ...
 Industrialisation de la plateforme: comment passer du POC à la vie réelle ?
 PHP 7.2, Symfony 4.1, Docker ...</dd>
@@ -87,7 +86,8 @@ PHP 7.2, Symfony 4.1, Docker ...</dd>
 ~~Slides~~  
 ~~Video~~
 
-By [Selim Masrouki](https://connect.symfony.com/profile/smasrouki)
+By [Selim Masrouki](https://connect.symfony.com/profile/smasrouki)  
+![github](icon/github.png) [@smasrouki](https://github.com/smasrouki)  
 
 ---
 
@@ -133,8 +133,8 @@ Cependant, l'injection de dépendance n'est qu'un modèle : il faut une impléme
 [Slides](https://speakerdeck.com/tgalopin/plongee-dans-linjection-de-dependances-de-symfony)
 ~~Video~~
 
-By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)
-![github](icon/github.png) [@tgalopin](https://github.com/tgalopin)
+By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
+![github](icon/github.png) [@tgalopin](https://github.com/tgalopin)  
 ![twitter](icon/twitter.png) [@titouangalopin](https://twitter.com/titouangalopin)
 
 ---
@@ -153,6 +153,6 @@ Finalement, nous découvrirons comment l'intégration du protocole Mercure dans 
 [Slides](https://www.slideshare.net/coopTilleuls/symfony-on-steroids-vuejs-mercure-panther-138627741)
 ~~Video~~
 
-By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)
-![github](icon/github.png) [@dunglas](https://github.com/dunglas)
+By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
+![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
 ![twitter](icon/twitter.png) [@dunglas](https://twitter.com/dunglas)
