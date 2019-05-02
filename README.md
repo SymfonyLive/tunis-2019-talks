@@ -130,7 +130,7 @@ By [Mehdi Chibouni](https://connect.symfony.com/profile/mchibouni)
 Cependant, l'injection de dépendance n'est qu'un modèle : il faut une implémentation. Le composant DependencyInjection de Symfony est pleine de fonctionnalités utiles et intéressantes, qui étendent les concepts de base de l'injection de dépendances. Partons à la découverte de ce composant et de son intégration dans le framework, pour mieux comprendre les concepts cachés derrière le code.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/tgalopin/plongee-dans-linjection-de-dependances-de-symfony)
+[Slides](https://speakerdeck.com/tgalopin/plongee-dans-linjection-de-dependances-de-symfony)  
 ~~Video~~
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
@@ -150,7 +150,7 @@ Au cours de ce talk nous découvrirons comment utiliser ensembles VueJS (l'un de
 Finalement, nous découvrirons comment l'intégration du protocole Mercure dans Symfony permet de "pusher" des mises à jour de données réel vers les clients.</dd>
 </dl>
 
-[Slides](https://www.slideshare.net/coopTilleuls/symfony-on-steroids-vuejs-mercure-panther-138627741)
+[Slides](https://www.slideshare.net/coopTilleuls/symfony-on-steroids-vuejs-mercure-panther-138627741)  
 ~~Video~~
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
