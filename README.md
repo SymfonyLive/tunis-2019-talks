@@ -1,7 +1,7 @@
 # [Symfony Live - Tunis 2019](https://tunis2019.live.symfony.com) talks
 
 - All talks are in **french**.
-- Comment and rate talks on [joind.in](https://joind.in/event/symfonylive-paris-2019/schedule/list)
+- Comment and rate talks on [joind.in]()
 
 ## Keynote
 
